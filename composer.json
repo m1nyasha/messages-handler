@@ -1,0 +1,21 @@
+{
+  "name": "protasevich/messages-handler",
+  "description": "A magical tool that will make it easy to handle chat messages",
+  "type": "library",
+  "license": "GPL-3.0-only",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Mikhail Protasevich",
+      "email": "m1nyasha@yandex.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Protasevich\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}
