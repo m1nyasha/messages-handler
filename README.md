@@ -2,6 +2,12 @@
 
 A magical tool that will make it easy to handle chat messages
 
+## Install
+
+```shell
+$ composer require protasevich/messages-handler
+```
+
 ## Using
 
 ```php
